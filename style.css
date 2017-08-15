@@ -8,13 +8,19 @@ h3 {
   color: blue;
 }
 
+h5 {
+  align-content:center;
+  color: gray;
+}
+
 h1 {
   align-content:center;
   color: black;
 }
 body {
-  width: 200px;
+  width: 400px;
   margin: 0 auto;
+  margin-top: 5%;
   background-color: #ffffff;
   padding: 0 20px 20px 20px;
   border: 1px solid black;
