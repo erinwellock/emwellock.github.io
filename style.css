@@ -1,0 +1,21 @@
+
+p {
+  color: red;
+}
+
+h3 {
+  align-content:center;
+  color: blue;
+}
+
+h1 {
+  align-content:center;
+  color: black;
+}
+body {
+  width: 200px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
